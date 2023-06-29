@@ -6,12 +6,12 @@ The main repository hosts:
 
 SSWOT Module in Moodle 3.8
 Project Leader, idea, design (authoring tool) - Dr. Pankaj Pathak, Samaya Pillai , Dr. Pradnya Purandare 
-POASASSIGNMENT module for Moodle 2.8
-Project Leader - Oleg Sychev
-Initial implementation - Anatoliy Erofeev
+#POASASSIGNMENT module for Moodle 3.8
+Project Leader - Dr. Pankaj  Pathak
+Initial implementation - Dr. Pradnya Purandare
 Maintenance - samaya Pillai
-CORRECT WRITING question type for Moodle 2.5
-Idea, string analysis method, general architecture, hints implementation - Oleg Sychev
+CORRECT WRITING question type for Moodle 3.8
+Idea, string analysis method, general architecture, hints implementation - Dr. Pankaj Pathak
 Student Access Control Kit (SACK)
 Supervised block & quiz access rule for Moodle 3.8
 Idea, project leader - Dr. pankaj Pathak
